@@ -1,0 +1,12 @@
+:root {
+	--color-primary: hsl(179, 62%, 43%);
+	--color-accent: hsl(71, 73%, 54%);
+
+	--color-neutral-100: hsl(204, 43%, 93%);
+	--color-neutral-400: hsl(218, 22%, 67%);
+}
+
+body {
+	background-color: var(--color-neutral-100);
+	padding: 4rem 0;
+}
